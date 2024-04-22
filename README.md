@@ -1,5 +1,7 @@
 # Amazon Ecommerce Sales Dashboard
 
+[![Project](https://img.shields.io/badge/Project-Amazon%20Sales%20Dashboard-brightgreen)](https://www.novypro.com/project/amazon-sales-dasboard-power-bi)
+
 ![Dashboard Screenshot](https://github.com/Danishakhtar2001/Amazom-Ecommerce-Sales-Dashboard/assets/156657584/d1d75780-874f-4b58-9d72-e4883bd0622b)
 
 ## Overview
@@ -21,8 +23,14 @@ Welcome to the Advanced Amazon Sales Dashboard in Power BI! This comprehensive t
 6. **Optimize Strategy:** Use the insights gained to optimize your Amazon sales strategy and maximize revenue.
 
 ## Screenshots:
+
+### Page 1
 ![Screenshot 1](https://github.com/Danishakhtar2001/Amazom-Ecommerce-Sales-Dashboard/assets/156657584/d1d75780-874f-4b58-9d72-e4883bd0622b)
+
+### Page 2
 ![Screenshot 2](https://github.com/Danishakhtar2001/Amazom-Ecommerce-Sales-Dashboard/assets/156657584/dd87c74d-5c9b-4746-a1a9-80e3fad29185)
+
+### Page 3
 ![Screenshot 3](https://github.com/Danishakhtar2001/Amazom-Ecommerce-Sales-Dashboard/assets/156657584/62a0b6a3-5882-425a-9bb4-65f54f55c40d)
 
 ## Contributors:
