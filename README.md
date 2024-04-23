@@ -11,7 +11,6 @@ Welcome to the Advanced Amazon Sales Dashboard in Power BI! This comprehensive t
 - **Comprehensive Metrics:** Gain insights into revenue, product sales, and customer behavior through detailed visualizations.
 - **Advanced Analytics:** Leverage advanced analytics to identify trends, seasonality, and customer demographics.
 - **Customizable Filters:** Customize filters to focus on specific product categories, time frames, or regions for targeted analysis.
-- **Real-time Data Integration:** Ensure accuracy and relevance with real-time data integration.
 - **Drill-down Capability:** Dive deeper into sales patterns with drill-down features for a more in-depth analysis.
 
 ## How to Use:
